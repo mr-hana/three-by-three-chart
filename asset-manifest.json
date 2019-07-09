@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/three-by-three-chart/static/css/main.34de6062.chunk.css",
+    "main.js": "/three-by-three-chart/static/js/main.8294e2c3.chunk.js",
+    "main.js.map": "/three-by-three-chart/static/js/main.8294e2c3.chunk.js.map",
+    "runtime~main.js": "/three-by-three-chart/static/js/runtime~main.bf159a52.js",
+    "runtime~main.js.map": "/three-by-three-chart/static/js/runtime~main.bf159a52.js.map",
+    "static/js/2.292373ac.chunk.js": "/three-by-three-chart/static/js/2.292373ac.chunk.js",
+    "static/js/2.292373ac.chunk.js.map": "/three-by-three-chart/static/js/2.292373ac.chunk.js.map",
+    "index.html": "/three-by-three-chart/index.html",
+    "precache-manifest.1f3fbe90a4369830f40372dda4820494.js": "/three-by-three-chart/precache-manifest.1f3fbe90a4369830f40372dda4820494.js",
+    "service-worker.js": "/three-by-three-chart/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/three-by-three-chart/static/css/main.34de6062.chunk.css.map"
+  }
+}
