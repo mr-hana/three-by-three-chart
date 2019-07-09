@@ -1,5 +1,5 @@
 const CenterKey = 5;
-const Positions = ['topLeft', 'topCenter', 'topRight', 'middleLeft', 'middleCenter', 'middleRight', 'bottomLeft', 'bottomCenter', 'bottomRight']
+const Positions = ['topLeft', 'topCenter', 'topRight', 'middleLeft', 'middleCenter', 'middleRight', 'bottomLeft', 'bottomCenter', 'bottomRight'];
 
 const isCenter = key => CenterKey === key;
 const createInitialState = (centerValue = '') => {
