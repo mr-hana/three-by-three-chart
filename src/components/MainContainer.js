@@ -52,7 +52,8 @@ export default function MainContainer () {
   }
 
   return (
-    <Router>
+    <Router
+      basename="/three-by-three-chart">
       <div className={classes.root}>
         <div className={classes.appBar}>
           <AppBar position="static" >
